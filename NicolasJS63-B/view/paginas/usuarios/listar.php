@@ -1,4 +1,5 @@
 <main>
+    <!-- Página que lista todos os usuários presentes no banco de dados, apresentando também a opção de adicionar, editar ou remover um usuário caso o usuário atual seja administrador (o usuário principal não pode ser removido ou editado) -->
     <?php
         if ($_SESSION['user']->admin==2){
           ?>
