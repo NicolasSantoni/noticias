@@ -1,4 +1,5 @@
 <main>
+    <!-- Página para se fazer login -->
     <form form action="<?php echo HOME_URI;?>usuario/autenticar" method="POST">
         <fieldset>
             <legend>ENTRE COM O SEU USUÁRIO:</legend>
