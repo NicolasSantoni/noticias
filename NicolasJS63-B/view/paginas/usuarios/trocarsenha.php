@@ -1,4 +1,5 @@
 <main>
+    <!-- Página com um formulário para o usuário atual alterar sua senha -->
     <form action="<?php echo HOME_URI;?>usuario/trocar_senha" method="POST">
       <fieldset>
         <legend>MUDE SUA SENHA!</legend>
