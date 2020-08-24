@@ -1,4 +1,5 @@
 <html>
+  <!-- Página que mostra uma determinada notícia junto de seus comentários e um campo para o usuário atual adicionar um comentário (apenas se ele estiver logado) -->
 <main>
 <div class="panel-heading"><h1>Notícias</h1></div>
 <div class="panel panel-primary">
