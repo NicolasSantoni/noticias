@@ -1,4 +1,5 @@
 <main>
+    <!-- Página com um formulário para editar um certo usuário -->
     <form method="POST">
         <fieldset>
             <legend>EDITE O USUÁRIO:</legend>
