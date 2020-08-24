@@ -1,4 +1,5 @@
 <main>
+    <!-- Página para se criar um novo usuário -->
     <form action="<?php echo HOME_URI;?>usuario/salvar" method="POST">
       <fieldset>
           <legend>Cadastro de usuários</legend>
