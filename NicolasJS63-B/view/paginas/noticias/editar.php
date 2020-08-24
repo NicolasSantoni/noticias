@@ -1,4 +1,5 @@
 <main>
+    <!-- Página com formulário para editar uma determinada notícia -->
     <form method="POST">
       <fieldset>
           <legend>EDITAR NOTÍCIA</legend>
