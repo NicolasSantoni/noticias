@@ -1,4 +1,5 @@
 <html>
+<!-- Página que lista todas as notícias presentes no banco de dados, dando também a opção de adicionar uma notícia se o usuário atual for administrador ou professor -->
 <main>
 <div class="panel-heading"><h1>Notícias</h1></div>
 <?php
