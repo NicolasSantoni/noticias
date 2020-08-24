@@ -1,4 +1,5 @@
 <?php
+/** Página completa para se fazer login */
 	include "config.php";
   include HOME_DIR."view/tema/header.php";
 	include HOME_DIR."view/tema/msg.php";
