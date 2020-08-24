@@ -1,4 +1,5 @@
 <?php
+/** Página completa de início, que verifica se é a primeira vez que o usuário atual entrou pela primeira vez ou não, se sim, aparecerá um formulário para o mesmo mudar a senha */
 	include "config.php";
 	error_reporting(0);
   ini_set("display_errors", 0 );
