@@ -1,4 +1,5 @@
 <main>
+    <!-- Página com formulário para adicionar uma nova notícia -->
     <form action="<?php echo HOME_URI;?>noticia/criar" method="POST">
       <fieldset>
           <legend>ADICIONAR NOTÍCIA</legend>
